@@ -1,0 +1,22 @@
+# Archivos objeto y librerías compiladas
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+
+# Ejecutables (ajusta según tu sistema o nombre de salida)
+*.exe
+*.out
+*.app
+main
+a.out
+
+# Carpetas comunes de compilación y editor
+build/
+out/
+.vscode/
+.idea/
+*.user
