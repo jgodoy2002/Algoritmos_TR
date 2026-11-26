@@ -6,6 +6,7 @@
 *.so
 *.dylib
 *.dll
+*.pdb
 
 # Ejecutables (ajusta según tu sistema o nombre de salida)
 *.exe
